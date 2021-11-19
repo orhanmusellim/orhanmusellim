@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/Le5BxgkiTShtS/giphy.gif?cid=ecf05e47bupmn8m9mwo2y3erich3zl7uu41opxrn216kdv8c&rid=giphy.gif&ct=g" align="right" height="400">
+<img src="https://media0.giphy.com/media/Le5BxgkiTShtS/giphy.gif?cid=ecf05e47bupmn8m9mwo2y3erich3zl7uu41opxrn216kdv8c&rid=giphy.gif&ct=g" align="right" height="600">
 
 ### Hi there, I'm Orhan. :blush:
 
