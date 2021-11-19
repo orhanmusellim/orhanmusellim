@@ -1,4 +1,4 @@
-<img src="http://angchor.redbubble.com/" align="right" width="400" height="250">
+<img src="https://media2.giphy.com/media/3o6ZsVLQTBtpTQ7bZC/giphy.gif?cid=ecf05e4740adrgcqa2dddtswlkbegwz7em4nkqy0q19yayqk&rid=giphy.gif&ct=g" align="right" width="400" height="250">
 
 ### Hi there, I'm Orhan. :blush:
 
