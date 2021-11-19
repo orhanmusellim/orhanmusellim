@@ -4,8 +4,6 @@
 
 ## Fullstack Developer | Blogger
 
-<font color="redorange">Coffee :coffee: is how I keep up with `< code />` </font>
-
 ### Reach out to me
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
