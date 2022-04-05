@@ -23,6 +23,7 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
 
 <br />
+<img align="center" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" height="50" />
 
 ## Latest Blog Posts
 
